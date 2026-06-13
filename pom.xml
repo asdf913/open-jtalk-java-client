@@ -86,7 +86,7 @@
 		<dependency>
 		    <groupId>io.github.toolfactory</groupId>
 		    <artifactId>narcissus</artifactId>
-		    <version>1.0.7</version>
+		    <version>1.0.11</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/com.miglayout/miglayout-swing -->
 		<dependency>
