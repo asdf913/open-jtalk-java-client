@@ -56,7 +56,7 @@
 		<dependency>
 			<groupId>org.meeuw.util</groupId>
 			<artifactId>mihxil-functional</artifactId>
-			<version>1.14</version>
+			<version>1.17</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
 		<dependency>
